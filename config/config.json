@@ -1,0 +1,24 @@
+{
+    "database":{
+        "mysql":{
+               "host":"",
+               "user":"",
+               "database":"",
+               "password":"", 
+               "port":""
+        },
+        "oracle":{
+               "host":"",
+               "user":"",
+               "database":"",
+               "password":"", 
+               "port":""
+        },
+        "mongodb":{
+            "local": "mongodb://localhost:27017/ecommerce",
+            "atlas": "mongodb+srv://shailendra123:YFmZMmcEAl8OUIJ1@atlascluster.bkmzccz.mongodb.net/ecommerce",
+            "clustor": ""
+        }
+        
+    }
+}
